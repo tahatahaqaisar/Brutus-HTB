@@ -36,6 +36,3 @@ auth.log provided by the Hack The Box Academy
 Splunk
 Manual Log Correlation
 
-Timeline diagrams
-
-For a cleaner portfolio, avoid posting direct flags or exact HTB answers publicly if the machine is active.
